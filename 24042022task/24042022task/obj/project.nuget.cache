@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tel5bLZ9O0AyO/SgbNc0DgmErnf38jt0MVtyCBN/Aeg9mWg5JDZxjKnBanPdKwBQPHddWZTWqKyObq/CMeHC4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tu7d5w0m5\\source\\repos\\24042022task\\24042022task\\24042022task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tu7d5w0m5\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

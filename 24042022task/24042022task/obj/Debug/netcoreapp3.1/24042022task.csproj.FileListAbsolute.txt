@@ -1,0 +1,5 @@
+C:\Users\tu7d5w0m5\source\repos\24042022task\24042022task\obj\Debug\netcoreapp3.1\24042022task.csproj.AssemblyReference.cache
+C:\Users\tu7d5w0m5\source\repos\24042022task\24042022task\obj\Debug\netcoreapp3.1\24042022task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7d5w0m5\source\repos\24042022task\24042022task\obj\Debug\netcoreapp3.1\24042022task.AssemblyInfoInputs.cache
+C:\Users\tu7d5w0m5\source\repos\24042022task\24042022task\obj\Debug\netcoreapp3.1\24042022task.AssemblyInfo.cs
+C:\Users\tu7d5w0m5\source\repos\24042022task\24042022task\obj\Debug\netcoreapp3.1\24042022task.csproj.CoreCompileInputs.cache
